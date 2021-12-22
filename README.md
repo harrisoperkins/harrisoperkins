@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harrisoperkins
 - 👀 I’m interested in computer science, jazz music and playing the saxophone!
-- 🌱 I’m currently learning js, node, css, sql.
+- 🌱 I’m currently learning js, node, tailwind css, & sql.
 - 💞️ I’m looking to collaborate on anything to help me on my path to learning about software dev
 - 📫 Message me to contact
 
